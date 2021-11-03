@@ -1,0 +1,43 @@
+C:\Users\David\source\repos\Music Memory\Music Memory\bin\Debug\Music Memory.exe.config
+C:\Users\David\source\repos\Music Memory\Music Memory\bin\Debug\Music Memory.exe
+C:\Users\David\source\repos\Music Memory\Music Memory\bin\Debug\Music Memory.pdb
+C:\Users\David\source\repos\Music Memory\Music Memory\obj\Debug\Music Memory.csprojAssemblyReference.cache
+C:\Users\David\source\repos\Music Memory\Music Memory\obj\Debug\MainWindow.g.cs
+C:\Users\David\source\repos\Music Memory\Music Memory\obj\Debug\App.g.cs
+C:\Users\David\source\repos\Music Memory\Music Memory\obj\Debug\Music Memory_MarkupCompile.cache
+C:\Users\David\source\repos\Music Memory\Music Memory\obj\Debug\Music Memory_MarkupCompile.lref
+C:\Users\David\source\repos\Music Memory\Music Memory\obj\Debug\MainWindow.baml
+C:\Users\David\source\repos\Music Memory\Music Memory\obj\Debug\Music Memory.g.resources
+C:\Users\David\source\repos\Music Memory\Music Memory\obj\Debug\Music_Memory.Properties.Resources.resources
+C:\Users\David\source\repos\Music Memory\Music Memory\obj\Debug\Music Memory.csproj.GenerateResource.cache
+C:\Users\David\source\repos\Music Memory\Music Memory\obj\Debug\Music Memory.exe
+C:\Users\David\source\repos\Music Memory\Music Memory\obj\Debug\Music Memory.pdb
+C:\Users\David\Google Drive\School\Grade 12\1-2 Computer Programming\visual studio projects\Music Memory\Music Memory\bin\Debug\Music Memory.exe.config
+C:\Users\David\Google Drive\School\Grade 12\1-2 Computer Programming\visual studio projects\Music Memory\Music Memory\bin\Debug\Music Memory.exe
+C:\Users\David\Google Drive\School\Grade 12\1-2 Computer Programming\visual studio projects\Music Memory\Music Memory\bin\Debug\Music Memory.pdb
+C:\Users\David\Google Drive\School\Grade 12\1-2 Computer Programming\visual studio projects\Music Memory\Music Memory\obj\Debug\Music Memory.csprojAssemblyReference.cache
+C:\Users\David\Google Drive\School\Grade 12\1-2 Computer Programming\visual studio projects\Music Memory\Music Memory\obj\Debug\MainWindow.g.cs
+C:\Users\David\Google Drive\School\Grade 12\1-2 Computer Programming\visual studio projects\Music Memory\Music Memory\obj\Debug\App.g.cs
+C:\Users\David\Google Drive\School\Grade 12\1-2 Computer Programming\visual studio projects\Music Memory\Music Memory\obj\Debug\Music Memory_MarkupCompile.cache
+C:\Users\David\Google Drive\School\Grade 12\1-2 Computer Programming\visual studio projects\Music Memory\Music Memory\obj\Debug\Music Memory_MarkupCompile.lref
+C:\Users\David\Google Drive\School\Grade 12\1-2 Computer Programming\visual studio projects\Music Memory\Music Memory\obj\Debug\MainWindow.baml
+C:\Users\David\Google Drive\School\Grade 12\1-2 Computer Programming\visual studio projects\Music Memory\Music Memory\obj\Debug\Music Memory.g.resources
+C:\Users\David\Google Drive\School\Grade 12\1-2 Computer Programming\visual studio projects\Music Memory\Music Memory\obj\Debug\Music_Memory.Properties.Resources.resources
+C:\Users\David\Google Drive\School\Grade 12\1-2 Computer Programming\visual studio projects\Music Memory\Music Memory\obj\Debug\Music Memory.csproj.GenerateResource.cache
+C:\Users\David\Google Drive\School\Grade 12\1-2 Computer Programming\visual studio projects\Music Memory\Music Memory\obj\Debug\Music Memory.exe
+C:\Users\David\Google Drive\School\Grade 12\1-2 Computer Programming\visual studio projects\Music Memory\Music Memory\obj\Debug\Music Memory.pdb
+C:\Users\David\Google Drive\School\Pre-UBC\Grade 12\1-2 Computer Programming\visual studio projects\Music Memory\Music Memory\bin\Debug\Music Memory.exe.config
+C:\Users\David\Google Drive\School\Pre-UBC\Grade 12\1-2 Computer Programming\visual studio projects\Music Memory\Music Memory\bin\Debug\Music Memory.exe
+C:\Users\David\Google Drive\School\Pre-UBC\Grade 12\1-2 Computer Programming\visual studio projects\Music Memory\Music Memory\bin\Debug\Music Memory.pdb
+C:\Users\David\Google Drive\School\Pre-UBC\Grade 12\1-2 Computer Programming\visual studio projects\Music Memory\Music Memory\obj\Debug\Music Memory.csprojAssemblyReference.cache
+C:\Users\David\Google Drive\School\Pre-UBC\Grade 12\1-2 Computer Programming\visual studio projects\Music Memory\Music Memory\obj\Debug\MainWindow.g.cs
+C:\Users\David\Google Drive\School\Pre-UBC\Grade 12\1-2 Computer Programming\visual studio projects\Music Memory\Music Memory\obj\Debug\App.g.cs
+C:\Users\David\Google Drive\School\Pre-UBC\Grade 12\1-2 Computer Programming\visual studio projects\Music Memory\Music Memory\obj\Debug\Music Memory_MarkupCompile.cache
+C:\Users\David\Google Drive\School\Pre-UBC\Grade 12\1-2 Computer Programming\visual studio projects\Music Memory\Music Memory\obj\Debug\Music Memory_MarkupCompile.lref
+C:\Users\David\Google Drive\School\Pre-UBC\Grade 12\1-2 Computer Programming\visual studio projects\Music Memory\Music Memory\obj\Debug\MainWindow.baml
+C:\Users\David\Google Drive\School\Pre-UBC\Grade 12\1-2 Computer Programming\visual studio projects\Music Memory\Music Memory\obj\Debug\Music Memory.g.resources
+C:\Users\David\Google Drive\School\Pre-UBC\Grade 12\1-2 Computer Programming\visual studio projects\Music Memory\Music Memory\obj\Debug\Music_Memory.Properties.Resources.resources
+C:\Users\David\Google Drive\School\Pre-UBC\Grade 12\1-2 Computer Programming\visual studio projects\Music Memory\Music Memory\obj\Debug\Music Memory.csproj.GenerateResource.cache
+C:\Users\David\Google Drive\School\Pre-UBC\Grade 12\1-2 Computer Programming\visual studio projects\Music Memory\Music Memory\obj\Debug\Music Memory.csproj.CoreCompileInputs.cache
+C:\Users\David\Google Drive\School\Pre-UBC\Grade 12\1-2 Computer Programming\visual studio projects\Music Memory\Music Memory\obj\Debug\Music Memory.exe
+C:\Users\David\Google Drive\School\Pre-UBC\Grade 12\1-2 Computer Programming\visual studio projects\Music Memory\Music Memory\obj\Debug\Music Memory.pdb
