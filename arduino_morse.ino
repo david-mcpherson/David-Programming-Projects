@@ -1,16 +1,15 @@
 /*Author: David McPherson
-* Last modified: 30-March-2021
+* Last modified: 04-Nov-2021
 * 
-* This program takes its inputs under the global variables.
-* When it runs, it blinks a message in morse code. It requires
-* a circuit to be connected to function properly.
+* This program takes its inputs under the #define statements.
+* When it runs, it blinks a message in morse code.
 */
 
 // SETTINGS: 
-#define message "hello, world."   // this message gets outputted in morse code; no upper case letters permitted
-#define wordSpeed 12                          // morse speed in wpm; only used to define dotTime
-#define dotTime 12/wordSpeed*100              // set the time of a single dot in milliseconds; default is 100 ms for 12 wpm
-#define light 9                               // the output pin; for the light on the board use light = 13
+#define message "hiccup and toothless"   // this message gets outputted in morse code; no upper case letters permitted
+#define wordSpeed 8                          // morse speed in wpm; only used to define dotTime
+#define dotTime 1200/wordSpeed                // set the time of a single dot in milliseconds; default is 100 ms for 12 wpm
+#define light 13                              // the output pin; for the light on the board use light = 13
 
 
 // function flashes a single dot
@@ -37,8 +36,9 @@ void setup() {
   int messageLength = strlen(message);
   delay(1000);
 
-  for(int k = 0; k < messageLength; k++){
-    char letter = message[k];
+  //for(int k = 0; k < messageLength; k++){
+  for(char letter : message){
+    //char letter = message[k];
     switch (letter){
       case ' ': delay(4*dotTime); break;     
       case 'a': dot(); dash(); break;
