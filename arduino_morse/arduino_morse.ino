@@ -36,9 +36,7 @@ void setup() {
   int messageLength = strlen(message);
   delay(1000);
 
-  //for(int k = 0; k < messageLength; k++){
   for(char letter : message){
-    //char letter = message[k];
     switch (letter){
       case ' ': delay(4*dotTime); break;     
       case 'a': dot(); dash(); break;
