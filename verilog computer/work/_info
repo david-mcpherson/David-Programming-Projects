@@ -1,0 +1,376 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/David/Desktop/211_labs/lab5
+vALU
+Z1 !s110 1636497527
+!i10b 1
+!s100 ?<i]^^AQS42J@jPnbgz7D3
+IQ0A9Im=dQESg9PhRSgC9=1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1636334074
+8alu.v
+Falu.v
+L0 7
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1636497527.000000
+!s107 alu.v|
+!s90 alu.v|
+!i113 1
+Z5 tCvgOpt 0
+n@a@l@u
+vALU_tb
+R1
+!i10b 1
+!s100 GSJDQVF<gN?=ICHb84eMQ1
+I`IDCgT7NJYXlhQh275Ea11
+R2
+R0
+w1636497505
+8alu_tb.v
+Falu_tb.v
+L0 7
+R3
+r1
+!s85 0
+31
+R4
+!s107 alu_tb.v|
+!s90 alu_tb.v|
+!i113 1
+R5
+n@a@l@u_tb
+valu_tb
+!s110 1636438175
+!i10b 1
+!s100 ^jJW^32jYPn<[>V6YC8L03
+IRYI62JXYkB8BR;oT<>32S2
+R2
+dC:/Users/David/desktop/211_labs/lab5
+w1636335603
+8C:/Users/David/Desktop/211_labs/lab5/alu_tb.v
+FC:/Users/David/Desktop/211_labs/lab5/alu_tb.v
+L0 7
+R3
+r1
+!s85 0
+31
+!s108 1636438175.000000
+!s107 C:/Users/David/Desktop/211_labs/lab5/alu_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/David/Desktop/211_labs/lab5/alu_tb.v|
+!i113 1
+Z6 o-work work
+R5
+vdatapath
+Z7 !s110 1636497530
+!i10b 1
+!s100 EFgCZNmJ[G52XTRLYdPbR2
+I?ebGDiMjOoiGJa:_8MM5Y0
+R2
+R0
+w1636350902
+8datapath.v
+Fdatapath.v
+L0 12
+R3
+r1
+!s85 0
+31
+Z8 !s108 1636497530.000000
+!s107 datapath.v|
+!s90 datapath.v|
+!i113 1
+R5
+vdatapath_tb
+R7
+!i10b 1
+!s100 oYEFBXIcMGHE2mXQVU6el0
+IKOBSSL2BFYUXzZn4]T?NY3
+R2
+R0
+w1636497514
+8datapath_tb.v
+Fdatapath_tb.v
+L0 11
+R3
+r1
+!s85 0
+31
+R8
+!s107 datapath_tb.v|
+!s90 datapath_tb.v|
+!i113 1
+R5
+vinput_iface
+Z9 !s110 1636497608
+!i10b 1
+!s100 3HCT_@Fd<2?dY@Xaa:6953
+IbLeEfjL?g>7:ICHH=fJdz3
+R2
+R0
+Z10 w1636437311
+Z11 8lab5_top.v
+Z12 Flab5_top.v
+L0 143
+R3
+r1
+!s85 0
+31
+Z13 !s108 1636497608.000000
+Z14 !s107 lab5_top.v|
+Z15 !s90 lab5_top.v|
+!i113 1
+R5
+vlab5_check_1
+Z16 !s110 1636497609
+!i10b 1
+!s100 T3ka=^BB;d_AjbA^7f1HI1
+IAJTHn^6P:Bd2F[g4WfB]X2
+R2
+R0
+Z17 w1635895361
+Z18 8lab5_autograder_check.v
+Z19 Flab5_autograder_check.v
+L0 7
+R3
+r1
+!s85 0
+31
+Z20 !s108 1636497609.000000
+Z21 !s107 lab5_autograder_check.v|
+Z22 !s90 lab5_autograder_check.v|
+!i113 1
+R5
+vlab5_check_2
+R16
+!i10b 1
+!s100 6D@D82^C[[R7ek=b@Z@HV0
+In0Ijo7XflF<LW]PEk_^j10
+R2
+R0
+R17
+R18
+R19
+L0 84
+R3
+r1
+!s85 0
+31
+R20
+R21
+R22
+!i113 1
+R5
+vlab5_check_3
+R16
+!i10b 1
+!s100 ?Y0zmS]RZ:l`ZW`_l1A`B3
+IRbUGW<`?=?O=H76ho_c9l1
+R2
+R0
+R17
+R18
+R19
+L0 140
+R3
+r1
+!s85 0
+31
+R20
+R21
+R22
+!i113 1
+R5
+vlab5_check_4
+R16
+!i10b 1
+!s100 9CmmUgcCJg:^J?XI[>9HJ0
+I>Ge762olPF0e^;_^CBK8M3
+R2
+R0
+R17
+R18
+R19
+L0 165
+R3
+r1
+!s85 0
+31
+R20
+R21
+R22
+!i113 1
+R5
+vlab5_top
+R9
+!i10b 1
+!s100 L<V2T4@<I1kAWUmfj:=U83
+Ia77BJFDBBhd_YWafjXSXP2
+R2
+R0
+R10
+R11
+R12
+L0 91
+R3
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 1
+R5
+vregfile
+Z23 !s110 1636497518
+!i10b 1
+!s100 OgGJHBS=b;@;<J3L^0<:21
+I^`JMfC544k`TT0_OEH`=U0
+R2
+R0
+w1636494435
+8regfile.v
+Fregfile.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z24 !s108 1636497518.000000
+!s107 regfile.v|
+!s90 regfile.v|
+!i113 1
+R5
+vregfile_tb
+R23
+!i10b 1
+!s100 =>MYo4N>YMdIncImkdIOX3
+IKO9c4UBbS5UK:B:a]V;IB2
+R2
+R0
+w1636497495
+8regfile_tb.v
+Fregfile_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R24
+!s107 regfile_tb.v|
+!s90 regfile_tb.v|
+!i113 1
+R5
+vregisterWLE
+!s110 1636332057
+!i10b 1
+!s100 1XIe9ZmJ>g3=hLM<0z:^10
+I=TN<M6_]mncb2W2OK=4Ol3
+R2
+R0
+w1636330308
+8C:/Users/David/Desktop/211_labs/lab5/regfile.v
+FC:/Users/David/Desktop/211_labs/lab5/regfile.v
+L0 41
+R3
+r1
+!s85 0
+31
+!s108 1636332057.000000
+!s107 C:/Users/David/Desktop/211_labs/lab5/regfile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/David/Desktop/211_labs/lab5/regfile.v|
+!i113 1
+R6
+R5
+nregister@w@l@e
+vshifter
+Z25 !s110 1636497528
+!i10b 1
+!s100 BMb[V[Hl=<iTzzlF?>PiY1
+InCgBSCikYB[CMccJ_iX<h2
+R2
+R0
+w1636337243
+8shifter.v
+Fshifter.v
+L0 6
+R3
+r1
+!s85 0
+31
+Z26 !s108 1636497528.000000
+!s107 shifter.v|
+!s90 shifter.v|
+!i113 1
+R5
+vshifter_tb
+R25
+!i10b 1
+!s100 mh0O3aPz8HTQH31LUdH^g2
+Igli@_Jfz2[?C?c:`3Q2922
+R2
+R0
+w1636497508
+8shifter_tb.v
+Fshifter_tb.v
+L0 6
+R3
+r1
+!s85 0
+31
+R26
+!s107 shifter_tb.v|
+!s90 shifter_tb.v|
+!i113 1
+R5
+vsseg
+R9
+!i10b 1
+!s100 57<H:TQ=3:9@n=dZnPT=R3
+I_YSFXcT70AE:JCPa=]3a82
+R2
+R0
+R10
+R11
+R12
+L0 201
+R3
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 1
+R5
+vvDFF
+R9
+!i10b 1
+!s100 V4Abgm_8h[bEa>WQRk=lG0
+I07`Vl4MeRN0Yc8c^RbJ6:2
+R2
+R0
+R10
+R11
+R12
+L0 182
+R3
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 1
+R5
+nv@d@f@f
